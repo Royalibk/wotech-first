@@ -4,7 +4,8 @@ Read me file uses markdown syntax to edit any text, formulas or code
 
 ## My skills
 -Java
--Pythom
+-Python
 -Github
 
-# wotech-first
+## My major projects
+1. Java online banking app
